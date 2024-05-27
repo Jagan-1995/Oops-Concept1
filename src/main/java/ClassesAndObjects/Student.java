@@ -1,4 +1,4 @@
-package ObjectAndClass;
+package ClassesAndObjects;
 
 public class Student {
 

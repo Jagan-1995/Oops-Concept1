@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AccessModifiers/Package1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AccessModifiers/Package1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AccessModifiers/Package2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AccessModifiers/Package2/StudentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectAndClass/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassesAndObjects/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectAndClass/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassesAndObjects/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +69,8 @@
       <updated>1716539929912</updated>
       <workItem from="1716539930971" duration="4028000" />
       <workItem from="1716777995163" duration="10090000" />
+      <workItem from="1716806811627" duration="649000" />
+      <workItem from="1716961910760" duration="8163000" />
     </task>
     <servers />
   </component>

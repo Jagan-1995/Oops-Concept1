@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RuntimePolymorphism/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +60,8 @@
       <workItem from="1716539930971" duration="4028000" />
       <workItem from="1716777995163" duration="10090000" />
       <workItem from="1716806811627" duration="649000" />
-      <workItem from="1716961910760" duration="8163000" />
+      <workItem from="1716961910760" duration="8888000" />
+      <workItem from="1717118057194" duration="1033000" />
     </task>
     <servers />
   </component>
@@ -115,6 +106,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/Constructors/Student.java</url>
           <line>10</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Static/Client.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Static/Client.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

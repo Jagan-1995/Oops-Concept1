@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Executors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Executors/PrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortMultiThreaded/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortMultiThreaded/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Subtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1717118057194" duration="1480000" />
       <workItem from="1717296606256" duration="2788000" />
       <workItem from="1717312315785" duration="654000" />
-      <workItem from="1717553153325" duration="6044000" />
+      <workItem from="1717553153325" duration="8661000" />
     </task>
     <servers />
   </component>

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/PrintHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/PrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Executors/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Executors/PrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortMultiThreaded/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortMultiThreaded/Sorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Executors" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +69,9 @@
       <workItem from="1716806811627" duration="649000" />
       <workItem from="1716961910760" duration="8888000" />
       <workItem from="1717118057194" duration="1480000" />
-      <workItem from="1717296606256" duration="2211000" />
+      <workItem from="1717296606256" duration="2788000" />
+      <workItem from="1717312315785" duration="654000" />
+      <workItem from="1717553153325" duration="6044000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package AdderSubtractor;
+package AdderSubtractorSynchronized;
 
 import java.util.concurrent.Callable;
 
@@ -13,7 +13,10 @@ public class Subtractor implements Callable<Void> {
     @Override
     public Void call() throws Exception {
         for(int i = 1; i <= 10000; i++){
-            count.value -= i;
+            synchronized (count){
+                count.value -= i;
+            }
+
         }
         return null;
     }

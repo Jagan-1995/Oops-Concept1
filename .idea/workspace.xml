@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorMutex/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorMutex/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorMutex/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorMutex/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSyncMethods/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSyncMethods/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSyncMethods/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSyncMethods/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSynchronized/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSynchronized/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSynchronized/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractorSynchronized/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdderSubtractor/Subtractor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +79,7 @@
       <workItem from="1717312315785" duration="654000" />
       <workItem from="1717553153325" duration="8872000" />
       <workItem from="1717634894619" duration="708000" />
-      <workItem from="1717721357616" duration="4134000" />
+      <workItem from="1717721357616" duration="7462000" />
     </task>
     <servers />
   </component>

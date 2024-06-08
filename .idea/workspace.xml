@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumer/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumerSemaphores/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumerSemaphores/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumerSemaphores/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumerSemaphores/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/OOPS concept by Umang/Oops_Concept1/src/main/java/AdderSubtractorSyncMethods",
+    "last_opened_file_path": "D:/OOPS concept by Umang/Oops_Concept1/src/main/java/ProducerConsumerSemaphores",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\ProducerConsumerSemaphores" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\AdderSubtractorSyncMethods" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\AdderSubtractorSynchronized" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\AdderSubtractorMutex" />
@@ -79,7 +80,9 @@
       <workItem from="1717312315785" duration="654000" />
       <workItem from="1717553153325" duration="8872000" />
       <workItem from="1717634894619" duration="708000" />
-      <workItem from="1717721357616" duration="7462000" />
+      <workItem from="1717721357616" duration="8402000" />
+      <workItem from="1717781510751" duration="28000" />
+      <workItem from="1717870697624" duration="1734000" />
     </task>
     <servers />
   </component>

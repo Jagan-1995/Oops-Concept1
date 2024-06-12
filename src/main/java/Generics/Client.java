@@ -1,6 +1,11 @@
 package Generics;
 
+import jdk.jshell.execution.Util;
+
+import java.rmi.server.UID;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 public class Client {
     public static void main(String[] args) {
@@ -64,5 +69,48 @@ public class Client {
 
         Long res2 = p13.doSomethingForLearning(9999L);
         Integer res3 = p13.<Integer>doSomethingForLearning(66);
+
+
+
+        /*
+        Inhertance and Generics
+         */
+
+        Utils.simpleDoSomething(new Animal());
+        Utils.simpleDoSomething(new Dog());
+        Utils.simpleDoSomething(new Cat());
+
+        List<Dog> dogs = new ArrayList<>();
+        dogs.add(new Dog());
+        dogs.add(new Dog());
+        dogs.add(new Dog());
+
+        List<Cat> cats = new ArrayList<>();
+        cats.add(new Cat());
+        cats.add(new Cat());
+        cats.add(new Cat());
+        cats.add(new Cat());
+
+        List<Animal> animals = new ArrayList<>();
+
+        Utils.doSomething(dogs);
+        Utils.doSomething(cats);
+        Utils.doSomething(animals);
+
+        Utils.printAnimalNames(animals);
+        Utils.printAnimalNames(dogs);
+        Utils.printAnimalNames(cats);
+
+        Utils.doSomething2(dogs);
+        Utils.doSomething2(cats);
+        Utils.doSomething2(animals);
+
+        /*
+        we can't store List<Dog> in List<Animal> - Not Allowed
+        we can store only in animal
+         */
+
+
+
     }
 }

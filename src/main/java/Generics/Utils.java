@@ -24,7 +24,7 @@ public class Utils {
         }
     }
 
-    public static <T extends A>void testInterface(List<T>){
+    public static <T extends A>void testInterface(List<T> x){
 
     }
 

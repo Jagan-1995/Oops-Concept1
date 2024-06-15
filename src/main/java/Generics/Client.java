@@ -73,7 +73,7 @@ public class Client {
 
 
         /*
-        Inhertance and Generics
+        Inheritance and Generics
          */
 
         Utils.simpleDoSomething(new Animal());

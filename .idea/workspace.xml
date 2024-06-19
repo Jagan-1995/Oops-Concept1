@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c73cf05-ee8e-47b2-87de-75bd4e9be40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/StudentPSPComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/StudentPSPUnivNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/HelloWorldPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/MathematicalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/StudentPSPComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasStreams/StudentPSPUnivNameComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Generics/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generics/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Generics/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generics/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,25 +40,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OOPS concept by Umang/Oops_Concept1/src/main/java/ProducerConsumerSemaphores&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/OOPS concept by Umang/Oops_Concept1/src/main/java/LambdasStreams",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\LambdasStreams" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\ProducerConsumerSemaphores" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\AdderSubtractorSyncMethods" />
       <recent name="D:\OOPS concept by Umang\Oops_Concept1\src\main\java\AdderSubtractorSynchronized" />
@@ -92,7 +92,9 @@
       <workItem from="1717939944642" duration="217000" />
       <workItem from="1717984163588" duration="254000" />
       <workItem from="1718157613980" duration="6883000" />
-      <workItem from="1718410434164" duration="9260000" />
+      <workItem from="1718410434164" duration="9652000" />
+      <workItem from="1718771356040" duration="380000" />
+      <workItem from="1718775567194" duration="9842000" />
     </task>
     <servers />
   </component>
